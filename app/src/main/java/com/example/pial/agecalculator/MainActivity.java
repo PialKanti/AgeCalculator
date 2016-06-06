@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         mToolBar=(Toolbar)findViewById(R.id.toolbar);
         setSupportActionBar(mToolBar);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
+
+        //code goes here
     }
 }
